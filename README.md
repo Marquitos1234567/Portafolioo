@@ -10,6 +10,7 @@ El sitio se estructura mediante los siguientes menús principales:
 
 - `Inicio` → [`index.html`](./index.html)
 - `Acerca de mí` → [`about.html`](./about.html)
+- `Proyectos` → [`services.html`](./services.html) 
 - `Contacto` → [`contact.html`](./contact.html)
 
 ---
